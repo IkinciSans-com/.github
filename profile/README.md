@@ -5,10 +5,8 @@ This organization was created for the term project of Bursa Technical University
 - [TR : Açıklama :boom:](#tr)
 
  #### [EN]
-# IkinciSans.com 🌈
+# IkinciSans.com 🌈🍀
 It is a website that exchanges second-hand goods.
-
-# Project Details: 
 
 ### Technologies 🧩
 
@@ -23,16 +21,14 @@ It is a website that exchanges second-hand goods.
 
 You can contact us or communicate with the team through the organization.!
 
-## Resources
+## Resources 📑
 
 
 ****
 
  #### [TR]
-# IkinciSans.com 🌈
+# IkinciSans.com 🌈🍀
 İkinci el eşya takası yapan bir websitedir.
-
-# Proje Detayları:  
 
 ## Teknolojiler 🧩
 
@@ -47,4 +43,4 @@ You can contact us or communicate with the team through the organization.!
 
 Bizimle iletişime geçebilir veya organizasyon üzerinden ekip ile iletişim kurabilirsiniz.!
 
-## Kaynaklar
+## Kaynaklar 📑
