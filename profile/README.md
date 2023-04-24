@@ -48,6 +48,7 @@ You can contact us or communicate with the team through the organization!
 Our contact person during the project: [@rumeysaemine](https://github.com/rumeysaemine)
 
 ## Resources 📑
+You can find the details in the English folder of the [IkinciSans_Details](https://github.com/IkinciSans-com/IkinciSans_Details) repository.
 
 ****
 
@@ -95,3 +96,4 @@ Bizimle iletişime geçebilir veya organizasyon üzerinden ekip ile iletişim ku
 Proje süresince iletişim sorumlumuz: [@rumeysaemine](https://github.com/rumeysaemine)
 
 ## Kaynaklar 📑
+[IkinciSans_Details](https://github.com/IkinciSans-com/IkinciSans_Details) reposunun türkçe klasöründen ilgili detaylara ulaşabilirsiniz.
