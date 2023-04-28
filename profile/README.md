@@ -19,6 +19,11 @@ It is a website that exchanges second-hand goods.
 - Backend: Node.js
 - Database: MongoDB
 
+## Software Development Methodology :hourglass_flowing_sand:
+Agile Scrum can be defined as the methodology used in the software development process of our project. This methodology allowed our team to work quickly and flexibly, managing requirements and priorities. Scrum enabled our team to communicate and collaborate continuously, with regular meetings to receive feedback. As a result, project management and task distribution became more transparent and efficient.
+
+Scrum is one of the agile software development methodologies that enables projects to be managed quickly and flexibly. It manages the iterative work processes, keeps the list of tasks in the product backlog, and provides a flexible structure to respond to changing customer needs. The Scrum team conducts daily meetings, presents regular product demos, and continuously improves the process.
+
 ## Features ✨ 
 - Free account/profile creation
 - Product search/listing
@@ -66,6 +71,11 @@ You can find the details in the English folder of the [IkinciSans_Details](https
 - Frontend: React.js
 - Backend: Node.js
 - Veritabanı: MongoDB
+
+## Yazılım Geliştirme Metodolojisi :hourglass_flowing_sand:
+Agile Scrum, projemizdeki yazılım geliştirme sürecinde kullanılan bir metodoloji olarak tanımlanabilir. Bu metodoloji, ekibimizin hızlı ve esnek bir şekilde çalışmasına, gereksinimlerin ve önceliklerin yönetilmesine olanak tanıdı. Scrum, takımımızın sürekli iletişim ve işbirliği içinde olmasını, düzenli toplantılar ile sürekli geri bildirimlerin alınmasını sağladı. Bu sayede, proje yönetimi ve iş dağılımı daha şeffaf ve verimli hale geldi. 
+
+Scrum, çevik yazılım geliştirme metodolojilerinden biridir ve projelerin esnek ve hızlı bir şekilde yönetilmesini sağlar. Bu metodoloji, iş süreçlerini iterasyonel olarak yönetir, işlerin listesini ürün backlog'unda tutar, sürekli geri bildirim alır ve değişen müşteri ihtiyaçlarına yanıt vermek için esnek bir yapı sunar. Scrum ekibi, günlük toplantılar yapar, düzenli olarak ürün demo'ları sunar ve sürekli iyileştirmeler yapar. 
 
 ## Özellikler ✨
 - Ücretsiz hesap/profil oluşturma
