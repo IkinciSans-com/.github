@@ -55,6 +55,18 @@ Our contact person during the project: [@rumeysaemine](https://github.com/rumeys
 ## Resources 📑
 You can find the details in the English folder of the [IkinciSans_Details](https://github.com/IkinciSans-com/IkinciSans_Details) repository.
 
+Some websites were consulted and used as a draft during the frontend and design process;
+* [w3schools React Tutorial](https://www.w3schools.com/react/default.asp)
+* [w3schools MongoDB Tutorial](https://www.w3schools.com/mongodb/index.php)
+* [w3schools Node.js Tutorial](https://www.w3schools.com/nodejs/default.asp)
+* [React.js Official Documentation](https://www.javatpoint.com/html-mcq)
+* [Redux Official Documentation](https://redux.js.org/introduction/getting-started)
+* [codewithsadee/anon-ecommerce-website](https://github.com/codewithsadee/anon-ecommerce-website)
+* [kaplanmustafa/Tradeify/frontend](https://github.com/kaplanmustafa/Tradeify/tree/master/frontend)
+* [jithstephen13/TradeMart](https://github.com/jithstephen13/TradeMart)
+* [nopSolutions/nopCommerce](https://demo.nopcommerce.com/)
+* [iremakalp/ETicaret](https://github.com/iremakalp/ETicaret)
+
 ****
 
  #### [TR]
@@ -107,3 +119,15 @@ Proje süresince iletişim sorumlumuz: [@rumeysaemine](https://github.com/rumeys
 
 ## Kaynaklar 📑
 [IkinciSans_Details](https://github.com/IkinciSans-com/IkinciSans_Details) reposunun türkçe klasöründen ilgili detaylara ulaşabilirsiniz.
+
+Frontend ve tasarım sürecinde bazı web sitelerine danışıldı ve taslak olarak kullanıldı;
+* [w3schools React Eğitimi](https://www.w3schools.com/react/default.asp)
+* [w3schools MongoDB Eğitimi](https://www.w3schools.com/mongodb/index.php)
+* [w3schools Node.js Eğitimi](https://www.w3schools.com/nodejs/default.asp)
+* [React.js Resmi Belgeleri](https://www.javatpoint.com/html-mcq)
+* [Redux Resmi Belgeleri](https://redux.js.org/introduction/getting-started)
+* [codewithsadee/anon-ecommerce-website](https://github.com/codewithsadee/anon-ecommerce-website)
+* [kaplanmustafa/Tradeify/frontend](https://github.com/kaplanmustafa/Tradeify/tree/master/frontend)
+* [jithstephen13/TradeMart](https://github.com/jithstephen13/TradeMart)
+* [nopSolutions/nopCommerce](https://demo.nopcommerce.com/)
+* [iremakalp/ETicaret](https://github.com/iremakalp/ETicaret)
