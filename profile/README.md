@@ -1,6 +1,5 @@
 ### Hi there 👋
 This organization was created for the term project of Bursa Technical University Computer Engineering Department, Software Engineering course.
-
 - [EN : Description :boom:](#en)  
 - [TR : Açıklama :boom:](#tr)
 
@@ -72,6 +71,8 @@ Some websites were consulted and used as a draft during the frontend and design 
  #### [TR]
 # IkinciSans.com 🍀
 İkinci el eşya takası yapan bir websitedir.
+
+![Demo Linki](https://github.com/IkinciSans-com/IkinciSans_Details/blob/main/Demo_IkinciSans.mp4) :green_heart:
 
 ## Proje Amaçları :raised_hands:
 - İkinci el eşyaların takas işlemleri
